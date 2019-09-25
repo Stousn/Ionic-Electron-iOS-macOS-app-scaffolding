@@ -1,4 +1,4 @@
-# Ionic-Electron-iOS-macOS-app-scaffolding
+# Ionic/Electron iOS & macOS app scaffolding
 Scaffolding Script to initialize an Ionic and Electron Cross-Platform application that targets iOS and macOS
 
 ## Execution
